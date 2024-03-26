@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 # ignore files
+.DS_Store
 analysis.ipynb
